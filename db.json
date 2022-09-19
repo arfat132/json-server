@@ -1,0 +1,335 @@
+{
+  "users": [
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+      "name": "Akash Ahmed",
+      "id": 2
+    },
+    {
+      "email": "saad@learnwithsumit.com",
+      "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+      "name": "Saad Hasan",
+      "id": 3
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 1",
+      "id": 4
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 2",
+      "id": 5
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 3",
+      "id": 6
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 4",
+      "id": 7
+    },
+    {
+      "email": "test5@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 5",
+      "id": 8
+    },
+    {
+      "email": "test6@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 6",
+      "id": 9
+    },
+    {
+      "email": "test7@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 7",
+      "id": 10
+    },
+    {
+      "email": "test8@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 8",
+      "id": 11
+    },
+    {
+      "email": "test9@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 9",
+      "id": 12
+    },
+    {
+      "email": "test10@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 10",
+      "id": 13
+    },
+    {
+      "email": "test11@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 11",
+      "id": 14
+    },
+    {
+      "email": "test12@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 12",
+      "id": 15
+    },
+    {
+      "email": "test13@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 13",
+      "id": 16
+    },
+    {
+      "email": "test14@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 14",
+      "id": 17
+    },
+    {
+      "email": "test15@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 15",
+      "id": 18
+    },
+    {
+      "email": "test16@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 16",
+      "id": 19
+    },
+    {
+      "email": "test17@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 17",
+      "id": 20
+    },
+    {
+      "email": "test18@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 18",
+      "id": 21
+    },
+    {
+      "email": "test19@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 19",
+      "id": 22
+    },
+    {
+      "email": "test20@gmail.com",
+      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+      "name": "Test 20",
+      "id": 23
+    },
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$maXudAf7yRvJZ4lKcVdm2eDwf35byApnp8JBTl9kXe1fMYX.LKAFy",
+      "name": "Sumit Saha",
+      "id": 24
+    },
+    {
+      "email": "ibrahim@gmail.com",
+      "password": "$2a$10$Apr3g75isaloxra5WzcdNO8XWfi3q1cjF.X0rsi/uBb/d5qu4yjZC",
+      "name": "Ibrahim ",
+      "id": 25
+    },
+    {
+      "email": "ibrahimsifat@gmail.com",
+      "password": "$2a$10$yNrGEotUiO5rv.SYSheEtuyQbS/QH3nE/ldqX1dwnlNSZRHDWqbrG",
+      "name": "ibrahimsifat",
+      "id": 26
+    },
+    {
+      "email": "bangladesh@gmail.com",
+      "password": "$2a$10$VGKJL2Cq5Acl36Uqm0paxeJQ2GysH/AB4HVTCNolhLDGbDU1nCs/.",
+      "name": "bangladesh",
+      "id": 27
+    },
+    {
+      "email": "mohammad@gmail.com",
+      "password": "$2a$10$l.oYN.n4TdCWEeKIV4fxoe/YiRLhnCej/fC1nu305/ZZ8YVG6GJ92",
+      "name": "Mohammad",
+      "id": 28
+    },
+    {
+      "email": "mahmud@gmail.com",
+      "password": "$2a$10$52ly9XgTdYF19CO3ptZ85.WtgV5EFCiFpk3J9NZOPIeDmKOnL4HXa",
+      "name": "Mahmud",
+      "id": 29
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "ibrahim@gmail.com-bangladesh@gmail.com",
+      "users": [
+        {
+          "email": "ibrahim@gmail.com",
+          "name": "Ibrahim ",
+          "id": 25
+        },
+        {
+          "email": "bangladesh@gmail.com",
+          "password": "$2a$10$VGKJL2Cq5Acl36Uqm0paxeJQ2GysH/AB4HVTCNolhLDGbDU1nCs/.",
+          "name": "bangladesh",
+          "id": 27
+        }
+      ],
+      "message": "hello",
+      "timestamp": 1663521180908,
+      "id": 1
+    },
+    {
+      "participants": "mohammad@gmail.com-mahmud@gmail.com",
+      "users": [
+        {
+          "email": "mohammad@gmail.com",
+          "name": "Mohammad",
+          "id": 28
+        },
+        {
+          "email": "mahmud@gmail.com",
+          "name": "Mahmud",
+          "id": 29
+        }
+      ],
+      "message": "Hi",
+      "timestamp": 1663529266999,
+      "id": 2
+    },
+    {
+      "participants": "mohammad@gmail.com-saad@learnwithsumit.com",
+      "users": [
+        {
+          "email": "mohammad@gmail.com",
+          "name": "Mohammad",
+          "id": 28
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+          "name": "Saad Hasan",
+          "id": 3
+        }
+      ],
+      "message": "Hello !!!",
+      "timestamp": 1663529286387,
+      "id": 3
+    },
+    {
+      "participants": "mahmud@gmail.com-sumit@learnwithsumit.com",
+      "users": [
+        {
+          "email": "mahmud@gmail.com",
+          "name": "Mahmud",
+          "id": 29
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "password": "$2a$10$maXudAf7yRvJZ4lKcVdm2eDwf35byApnp8JBTl9kXe1fMYX.LKAFy",
+          "name": "Sumit Saha",
+          "id": 24
+        }
+      ],
+      "message": "Hello",
+      "timestamp": 1663529371893,
+      "id": 4
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "ibrahim@gmail.com",
+        "name": "Ibrahim ",
+        "id": 25
+      },
+      "receiver": {
+        "email": "bangladesh@gmail.com",
+        "password": "$2a$10$VGKJL2Cq5Acl36Uqm0paxeJQ2GysH/AB4HVTCNolhLDGbDU1nCs/.",
+        "name": "bangladesh",
+        "id": 27
+      },
+      "message": "hello",
+      "timestamp": 1663521180908,
+      "id": 1
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "mahmud@gmail.com",
+        "name": "Mahmud",
+        "id": 29
+      },
+      "receiver": {
+        "email": "mohammad@gmail.com",
+        "password": "$2a$10$l.oYN.n4TdCWEeKIV4fxoe/YiRLhnCej/fC1nu305/ZZ8YVG6GJ92",
+        "name": "Mohammad",
+        "id": 28
+      },
+      "message": "Hello mahmud",
+      "timestamp": 1663529255129,
+      "id": 2
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "mohammad@gmail.com",
+        "name": "Mohammad",
+        "id": 28
+      },
+      "receiver": {
+        "email": "mahmud@gmail.com",
+        "name": "Mahmud",
+        "id": 29
+      },
+      "message": "Hi",
+      "timestamp": 1663529266999,
+      "id": 3
+    },
+    {
+      "conversationId": 3,
+      "sender": {
+        "email": "mohammad@gmail.com",
+        "name": "Mohammad",
+        "id": 28
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "Hello !!!",
+      "timestamp": 1663529286387,
+      "id": 4
+    },
+    {
+      "conversationId": 4,
+      "sender": {
+        "email": "mahmud@gmail.com",
+        "name": "Mahmud",
+        "id": 29
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$maXudAf7yRvJZ4lKcVdm2eDwf35byApnp8JBTl9kXe1fMYX.LKAFy",
+        "name": "Sumit Saha",
+        "id": 24
+      },
+      "message": "Hello",
+      "timestamp": 1663529371893,
+      "id": 5
+    }
+  ]
+}
